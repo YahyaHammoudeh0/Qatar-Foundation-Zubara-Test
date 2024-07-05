@@ -1,0 +1,11 @@
+Model Information:
+* title:	Al Zubarah Fort
+* source:	https://sketchfab.com/3d-models/al-zubarah-fort-735aa656b15843d7bc303d09bd5ce8c8
+* author:	David Vacas Madrid (https://sketchfab.com/vacasmadrid)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Al Zubarah Fort" (https://sketchfab.com/3d-models/al-zubarah-fort-735aa656b15843d7bc303d09bd5ce8c8) by David Vacas Madrid (https://sketchfab.com/vacasmadrid) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
